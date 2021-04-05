@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    int arr[10]={1,2，3,4,7,9,13,45,46,100};
+    int arr[10]={1,2,3,4,7,9,13,45,46,100}; //测试push
     int x;
     cin>>x;
     if(x>=arr[8])
