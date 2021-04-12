@@ -82,4 +82,5 @@ MinGW 提供了一套简单方便的Windows下的基于GCC 程序开发环境。
 * [视频评论](https://www.bilibili.com/video/av52434248)
 * [Github Issue](https://github.com/SDchao/AutoVsCEnv_WPF/issues/new) **推荐**
 
-#测试一下commit change  
+# 测试一下commit change  
+
